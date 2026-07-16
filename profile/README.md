@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rarefied-Earth/groundwork/main/assets/banner.svg" alt="Groundwork by Rarefied Earth" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rarefied-Earth/groundwork/main/assets/banner.png" alt="Groundwork by Rarefied Earth" width="100%" />
 </p>
 
 # Rarefied Earth
